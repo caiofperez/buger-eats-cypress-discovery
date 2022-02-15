@@ -5,14 +5,7 @@ import SignupFactory from '../factories/SignupFactory'
 
 describe('Signup', () => {
 
-    // beforeEach(function() {
-    //     cy.fixture('deliver').then((dlv)=> {
-    //         this.deliver = dlv
-
-    //     })
-
-    // })
-
+    
     it('User should be a deliver', function () {
         var signup = new SignupPage
         var deliver = SignupFactory.deliver()
