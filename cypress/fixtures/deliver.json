@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Caio Perez",
+        "cpf": "02332165498",
+        "email": "caio@test.com",
+        "whatsapp": "71999999999",
+        "address": {
+            "postalcode": "41100000",
+            "street": "Rua Thomaz Gonzaga",
+            "number": "111",
+            "details": "Ap 801",
+            "district": "Pernambués",
+            "city_state": "Salvador/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Felipe Perez",
+        "cpf": "02000111CA",
+        "email": "felipe@test.com",
+        "whatsapp": "71999999999",
+        "address": {
+            "postalcode": "41100000",
+            "street": "Rua Thomaz Gonzaga",
+            "number": "121",
+            "details": "Ap 601",
+            "district": "Pernambués",
+            "city_state": "Salvador/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+            "name": "Caio Fortes",
+            "cpf": "02332165475",
+            "email": "caio.test.com",
+            "whatsapp": "71999999998",
+            "address": {
+                "postalcode": "41100000",
+                "street": "Rua Thomaz Gonzaga",
+                "number": "121",
+                "details": "Ap 805",
+                "district": "Pernambués",
+                "city_state": "Salvador/BA"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        }
+}
